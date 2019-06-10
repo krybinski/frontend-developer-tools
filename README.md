@@ -1,6 +1,31 @@
 # Frontend Developer Tools
 List of tools and services that every frontend developer should use
 
+## Developments
+- [The Front-End Checklist](https://frontendchecklist.io/)
+- [Web Launch Checklist](https://weblaunchchecklist.com/)
+- [Sizzy](https://sizzy.co/)
+- [Resizer](https://material.io/tools/resizer/)
+- [JS Performance Playground](https://jsperf.com/)
+
+## Photos Stocks
+- [Unsplash](https://unsplash.com/)
+- [Pexels](https://www.pexels.com/)
+- [Pixabay](https://pixabay.com/)
+
+## Images Editors
+- [Pixlr Editor](https://pixlr.com/editor/)
+- [Method Draw](https://editor.method.ac/)
+- [Patternify](http://www.patternify.com/)
+- [SVG to PNG](https://svgtopng.com/)
+
+## Images Compression
+- [TinyPNG](https://tinypng.com/)
+- [ImageRecycle](https://www.imagerecycle.com/)
+- [JPEGmini](https://www.jpegmini.com/)
+- [Compressor.io](https://compressor.io/compress)
+- [ezgif](https://ezgif.com/optimize)
+
 ## Colors
 - [Flat UI Colors](https://flatuicolors.com/)
 - [Palettable](https://www.palettable.io/)
@@ -12,6 +37,9 @@ List of tools and services that every frontend developer should use
 
 ## Animations
 - [Animista](http://animista.net/)
+
+## Maps
+- [SnazzyMaps](https://snazzymaps.com/)
 
 ## Performance
 - [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)
@@ -26,3 +54,4 @@ List of tools and services that every frontend developer should use
 
 ## Other
 - [Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool/)
+- [Virtual machines from Microsoft under Linux](https://github.com/magnetikonline/linux-microsoft-ie-virtual-machines)
