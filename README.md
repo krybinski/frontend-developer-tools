@@ -9,3 +9,4 @@ List of tools and services that every frontend developer should use
 
 ## SEO
 - [Varvy SEO](https://varvy.com/)
+- [Varvy Mobile SEO](https://varvy.com/mobile/)
