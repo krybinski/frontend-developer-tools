@@ -5,6 +5,15 @@ List of tools and services that every frontend developer should use
 
 * [Development](#development)
 * [Photo Stocks](#photo-stocks)
+* [Images Editors](#images-editors)
+* [Images Compression](#images-compression)
+* [Colors](#colors)
+* [Fonts](#fonts)
+* [Animations](#animations)
+* [Maps](#maps)
+* [Performance](#performance)
+* [SEO](#seo)
+* [Other](#other)
 
 ## Developments
 - [The Front-End Checklist](https://frontendchecklist.io/)
