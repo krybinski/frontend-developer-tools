@@ -1,6 +1,11 @@
 # Frontend Developer Tools
 List of tools and services that every frontend developer should use
 
+## Table of contents
+
+* [Development](#development)
+* [Photo Stocks](#photo-stocks)
+
 ## Developments
 - [The Front-End Checklist](https://frontendchecklist.io/)
 - [Web Launch Checklist](https://weblaunchchecklist.com/)
@@ -8,7 +13,7 @@ List of tools and services that every frontend developer should use
 - [Resizer](https://material.io/tools/resizer/)
 - [JS Performance Playground](https://jsperf.com/)
 
-## Photos Stocks
+## Photo Stocks
 - [Unsplash](https://unsplash.com/)
 - [Pexels](https://www.pexels.com/)
 - [Pixabay](https://pixabay.com/)
