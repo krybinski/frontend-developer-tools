@@ -1,5 +1,5 @@
 # Frontend Developer Tools
-List of tools and services that every frontend developer should use
+List of tools that every that developer should know
 
 ## Table of contents
 
